@@ -1,0 +1,3 @@
+jimmy, 서울
+james, 부산
+richard, 제주
