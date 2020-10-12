@@ -11,7 +11,7 @@
 	String address = request.getParameter("address");
 	String url ="jdbc:mariadb://localhost:3306/my_db";
 	String user = "root";
-	String pw = "gustmddla426"; 
+	String pw = "***"; 
 	Connection con = null;
 	Statement stmt = null;
 	int res = 0;
